@@ -1,0 +1,20 @@
+White-#FFFFFF
+Black-#17202A
+Gray-#808080
+Red-#FF0000
+Orange-#FF5733
+Blue-#0000FF
+Pink-#FADBD8
+Green-#008000
+Aqua-#00FFFF
+Brown-#800000
+Yellow-#FFFF00
+Wine-#722F37
+Purple-#800080
+Violet-#7F00FF
+Beige-#F5F5DC
+Silver-#C0C0C0
+Lime-#00FF00
+Salmon Green-#88fd68
+Dark Gray-#3b3b3b
+Light Blue-#2c7ac3
